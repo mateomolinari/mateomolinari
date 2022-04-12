@@ -9,6 +9,7 @@
 
 - 📫 How to reach me **mateomolinari33@gmail.com**
 
+- 📛 [My POAPs](https://app.poap.xyz/scan/0x63b365a1aD15354F7338e95ba56E004C0d657C3E)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mateomolinari__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mateomolinari__" height="30" width="40" /></a>
